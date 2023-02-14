@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vugonz&hide=lua,html,scss,css&theme=dark&layout=compact)](https://github.com/vugonz/github-readme-stats)
 
-Hi, this is my public [GitHub profile](https://github.gazev.com)
+Hi, this is my public [GitHub profile](http://github.gazev.com)

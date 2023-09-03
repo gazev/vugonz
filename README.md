@@ -1,5 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vugonz&show_icons=true&theme=dark)](https://github.com/vugonz/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vugonz&hide=lua,html,scss,css&theme=dark&layout=compact)](https://github.com/vugonz/github-readme-stats)
-
-Hi, this is my public [GitHub profile](http://github.gazev.com)
+Hi my name is Gonçalo and I am a student finishing my Bachelor in CS
